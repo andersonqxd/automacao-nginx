@@ -22,7 +22,7 @@ Este é um projeto hands-on desenvolvido durante o curso de DevOps da [Atlântic
 │ ├── index.html
 │ ├── style.css
 │ └── img/
-├── images/
+├── imagens/
 │ ├── site.png
 │ ├── playbook.png
 │ └── vagrantfile.png
@@ -48,3 +48,30 @@ vagrant up
 ```
 http://localhost:8080
 ```
+## 🖼️ Imagens do Projeto
+
+### Site
+
+![Site localhost](./imagens/site.png)
+
+### Playbook
+
+![playbook](./imagens/playbook.png)
+
+### Vagrantfile
+
+![vagrantfile](./imagens/vagrantfile.png)
+
+## 💡 Aprendizados
+- Automação de provisionamento com Vagrant
+- Orquestração de configuração com Ansible
+- Instalação e configuração de Nginx automatizada
+- Deploy local de ambientes reprodutíveis
+ 
+ ## 🙋‍♂️ Autor
+Antonio Anderson de França
+Estudante de Redes de Computadores - UFC
+Aspirante a DevOps Engineer | Full Stack em formação
+
+[🔗 LinkedIn](https://www.linkedin.com/in/anderson-franca-rc/)
+[🔗 GitHub](https://github.com/andersonqxd)
